@@ -1,0 +1,15 @@
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/bin/Debug/net7.0/FirstApp
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/bin/Debug/net7.0/FirstApp.deps.json
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/bin/Debug/net7.0/FirstApp.runtimeconfig.json
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/bin/Debug/net7.0/FirstApp.dll
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/bin/Debug/net7.0/FirstApp.pdb
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/obj/Debug/net7.0/FirstApp.csproj.AssemblyReference.cache
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/obj/Debug/net7.0/FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/obj/Debug/net7.0/FirstApp.AssemblyInfoInputs.cache
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/obj/Debug/net7.0/FirstApp.AssemblyInfo.cs
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/obj/Debug/net7.0/FirstApp.csproj.CoreCompileInputs.cache
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/obj/Debug/net7.0/FirstApp.dll
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/obj/Debug/net7.0/refint/FirstApp.dll
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/obj/Debug/net7.0/FirstApp.pdb
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/obj/Debug/net7.0/FirstApp.genruntimeconfig.cache
+/home/boujdimkinot7991/Documents/glsid5/courses/design paterns/ensetDotNet/FirstApp/obj/Debug/net7.0/ref/FirstApp.dll
